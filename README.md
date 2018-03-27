@@ -1,4 +1,4 @@
-# Bingo
+# Bingo game on Android
 
 Bingo is a game of chance in which each player matches numbers printed in different arrangements on 5×5 cards with the numbers the game host draws at random, marking the selected numbers with tiles. When a player finds the selected numbers are arranged on their card in a row, they call out "Bingo!" to alert all participants to a winning card.
 
