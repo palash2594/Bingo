@@ -1,6 +1,7 @@
 # Bingo
 
-<img src="https://user-images.githubusercontent.com/26905542/37950821-be78b7ca-31b7-11e8-8465-674dd350bfb1.png" width="200" padding-left="200">
+<img src="https://user-images.githubusercontent.com/26905542/37950821-be78b7ca-31b7-11e8-8465-674dd350bfb1.png" width="200" 
+margin-left="200">
 
 <img src="https://user-images.githubusercontent.com/26905542/37951002-71f1989e-31b8-11e8-9b8e-f399e9fbd4e4.png" width="200">
 
